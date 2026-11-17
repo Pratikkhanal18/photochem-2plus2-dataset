@@ -1,0 +1,8 @@
+{
+ "python": "3.7.12",
+ "rdkit": "2022.09.1",
+ "xgboost": "1.6.2",
+ "shap": "0.42.1",
+ "mordred": null,
+ "sklearn": "1.0.2"
+}

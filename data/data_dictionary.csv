@@ -1,0 +1,24 @@
+field,type_unit,description,origin
+Reaction_ID,integer,Unique record identifier (1–249),original
+Substrate_1_SMILES,SMILES,"First alkene, or the tethered substrate for intramolecular reactions",original
+Substrate_2_SMILES,SMILES,Second alkene; empty for intramolecular reactions,original
+Catalyst_SMILES,SMILES,"Photocatalyst, sensitizer or Lewis acid; empty for direct irradiation",original
+Product_SMILES,SMILES,Cyclobutane product with stereodescriptors where reported,original
+Source_DOI,DOI,Review or primary article the record was extracted from (drag-fill increments corrected),original
+Solvent,SMILES,Solvent as reported,original
+Solvent_class,category,"Harmonized solvent: MeCN, DCM, Et2O, toluene, benzene, hexane, acetone, other, unk",derived
+Catalyst_class,category,"none, Ru, Cu, LewisAcid, pyrylium, other_org (rule-based from Catalyst_SMILES)",derived
+Cat_mol_pct,number (mol%),Catalyst loading,parsed
+Wavelength_nm,number (nm),Stated wavelength; cut-off for open values; midpoint of ranges,parsed
+Temp_C,number (°C),Reaction temperature; 'r.t.' set to 25,parsed
+Time_h,number (h),Reaction time where reported; 22 drag-fill values set to missing (6 remain),parsed
+Intramolecular,0/1,1 if no Substrate 2 is recorded,derived
+Yield_fraction,number (0–1),Reported yield; inequalities and ranges set to empty,parsed
+dr_major_part / dr_minor_part,number,Diastereomeric ratio a:b recovered from Excel time corruption,repaired
+dr_major_fraction,number (0–1),a/(a+b) for the diastereomeric ratio,derived
+er_major_part / er_minor_part,number,Enantiomeric ratio a:b recovered from Excel time corruption,repaired
+er_major_fraction,number (0–1),a/(a+b) for the enantiomeric ratio,derived
+Review_scheme,integer,Scheme of Poplata et al. 2016 the record corresponds to (empty for the primary article and record 249),traced
+Primary_DOIs,DOI list,"DOIs of the primary papers the review cites for the record; for the primary article, its own DOI",traced
+Study_ID,category,Independent study: records sharing any cited primary reference; grouping unit for validation,derived
+Provenance_confidence,category,"high, medium, low or unassigned (see provenance.csv, column Assignment)",traced

@@ -1,0 +1,5 @@
+column,meaning
+Reaction_ID,Record identifier
+Study_ID,Grouping variable (independent primary study)
+yield_grouped_fold_rep0..rep4,Test fold (0-4) of each yield record in the five study-grouped CV repeats; empty if no numeric yield
+selectivity_loso_fold,Index of the held-out study in leave-one-study-out selectivity validation; empty if no usable diastereomeric ratio

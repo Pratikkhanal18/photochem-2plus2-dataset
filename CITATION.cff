@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Photochemical [2+2] Cycloaddition Dataset with Traced Provenance and a Study-Grouped Benchmark"
+type: dataset
+authors:
+  - family-names: "Khanal"
+    given-names: "Pratik"
+    affiliation: "Crimson College of Technology, Butwal, Nepal"
+    orcid: "https://orcid.org/0009-0009-4072-9924"
+  - family-names: "Neupane"
+    given-names: "Bashu Dev"
+    affiliation: "Crimson College of Technology, Butwal, Nepal"
+    orcid: "https://orcid.org/0009-0000-9179-3998"
+  - family-names: "Khanal"
+    given-names: "Amrit"
+    affiliation: "Kathmandu Multiple College, Gaushala, Kathmandu, Nepal"
+version: "1.0.0"
+date-released: "2026-10-31"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23838653"
+keywords:
+  - photochemistry
+  - "[2+2] cycloaddition"
+  - cyclobutane
+  - machine learning
+  - reaction yield prediction
+  - diastereoselectivity
+  - grouped cross-validation

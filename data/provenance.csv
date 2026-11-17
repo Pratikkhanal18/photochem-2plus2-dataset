@@ -1,0 +1,250 @@
+Reaction_ID,Source_type,Review_scheme,Review_refs,Primary_DOIs,Assignment,Confidence,Primary_first_authors,Study_ID
+1,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+2,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+3,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+4,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+5,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+6,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+7,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+8,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+9,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+10,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+11,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+12,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+13,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+14,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+15,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+16,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+17,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+18,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+19,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+20,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+21,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+22,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+23,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+24,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+25,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+26,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+27,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+28,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+29,review (Poplata et al. 2016),8.0,90,10.1055/s-0028-1083303,matched by structure (diastereomers rac-19/rac-20),high,Paquette,S002
+30,review (Poplata et al. 2016),8.0,90,10.1055/s-0028-1083303,matched by structure (diastereomers rac-19/rac-20),high,Paquette,S002
+31,review (Poplata et al. 2016),7.0,88,10.1016/S0022-328X(01)01393-6,matched by structure (diallylsilane),high,Oba,S003
+32,review (Poplata et al. 2016),9.0,102,10.1002/1099-0690(200202)2002:4<645::AID-EJOC645>3.0.CO;2-A,"matched by structure (conformationally restricted 1,6-diene)",medium,Bach,S004
+33,review (Poplata et al. 2016),10.0,103,10.1055/s-2000-6261,"matched by structure (heteroatom-tethered 1,6-heptadiene)",medium,Bach,S005
+34,review (Poplata et al. 2016),11.0,"107,108,109,110",10.1055/s-1999-3120; 10.1016/S0040-4039(01)01167-4; 10.1021/jo026920c; 10.1039/b315623k,matched by structure (glucose-derived),high,Banerjee; Ghosh; Holt,S006
+35,review (Poplata et al. 2016),11.0,"107,108,109,110",10.1055/s-1999-3120; 10.1016/S0040-4039(01)01167-4; 10.1021/jo026920c; 10.1039/b315623k,matched by structure (glucose-derived),high,Banerjee; Ghosh; Holt,S006
+36,review (Poplata et al. 2016),11.0,"107,108,109,110",10.1055/s-1999-3120; 10.1016/S0040-4039(01)01167-4; 10.1021/jo026920c; 10.1039/b315623k,matched by structure (glucose-derived),high,Banerjee; Ghosh; Holt,S006
+37,review (Poplata et al. 2016),11.0,"107,108,109,110",10.1055/s-1999-3120; 10.1016/S0040-4039(01)01167-4; 10.1021/jo026920c; 10.1039/b315623k,matched by structure (glucose-derived),high,Banerjee; Ghosh; Holt,S006
+38,review (Poplata et al. 2016),12.0,"112,113",10.1016/j.tetlet.2012.10.018; 10.1039/C4OB02182G,matched by structure (bielschowskysin core),medium,Jana,S007
+39,review (Poplata et al. 2016),13.0,115,10.1002/anie.200600946,matched by structure (bridged bicyclo[4.2.0]octane route),medium,Braun,S008
+40,review (Poplata et al. 2016),18.0,138,10.1016/S0040-4039(00)87421-3,matched by structure (tetrathiatetraasterane),medium,Gollnick,S009
+41,review (Poplata et al. 2016),15.0,119,10.1002/anie.200605150,matched by structure (octacyclopropylcubane precursor),high,de,S010
+42,review (Poplata et al. 2016),16.0,130,10.1021/ja0023579,matched by structure (xanthone-sensitized cage acetal),high,Gan,S011
+43,review (Poplata et al. 2016),17.0,133,10.1016/S0040-4039(98)01138-1,matched by structure (sensitized photocyclodimerization to diazacyclooctane),high,Dave,S012
+44,review (Poplata et al. 2016),19.0,"139,140",10.1246/cl.140819; 10.1039/C2CC37123E,"matched by structure (axially chiral substrate, xanthone)",high,Clay; Kumarasamy,S013
+45,review (Poplata et al. 2016),21.0,"144,145,146,147,148,149,150,151,152,153,154,155,156,157",10.1016/S0040-4020(01)89568-5; 10.1055/s-1995-5134; 10.1016/S0040-4039(97)00254-2; 10.1016/S0040-4020(97)00171-3; 10.1055/s-1998-1643; 10.1021/jo9801521; 10.1016/S0040-4039(99)00846-1; 10.1016/S0040-4039(99)01232-0; 10.1016/S0040-4039(99)02306-0; 10.1016/S0040-4039(00)01868-2; 10.1021/jo026435h; 10.1016/j.tetlet.2004.01.100; 10.1002/hlca.200590103; 10.1021/ar9901422,matched by structure (styrene cyclophane),medium,Funaki; Hayashida; Inokuma; Nakamura; Nishimura; Okada,S014
+46,review (Poplata et al. 2016),22.0,158,10.1016/j.tet.2007.03.099,matched by structure (vinylpyridine crownophane),high,Inokuma,S015
+47,review (Poplata et al. 2016),23.0,168,10.1016/0040-4039(95)00793-C,"matched by structure (silyl tether, cyclobutene)",high,Bradford,S016
+48,review (Poplata et al. 2016),25.0,177,10.1021/ol030100k,matched by structure (rhododaurichromanic acid),high,Kurdyumov,S017
+49,review (Poplata et al. 2016),28.0,185,10.1002/anie.201204835,"matched by structure (Ir photocatalyst, 1-arylalkene)",medium,Lu,S018
+50,review (Poplata et al. 2016),28.0,186,10.1039/C5CC01344E,matched by structure (flavin catalyst (Cibulka)),medium,Mojr,S019
+51,review (Poplata et al. 2016),33.0,"216,217,218,219",10.1016/S0040-4039(01)87451-7; 10.1002/hlca.19970800610; 10.1016/S0040-4020(00)00498-1; 10.1002/1522-2675(20010815)84:8<2373::AID-HLCA2373>3.0.CO;2-4,matched by structure (isocoumarin + tetrachloroethylene),high,Bethke; Evanega; Kinder,S020
+52,review (Poplata et al. 2016),33.0,"216,217,218,219",10.1016/S0040-4039(01)87451-7; 10.1002/hlca.19970800610; 10.1016/S0040-4020(00)00498-1; 10.1002/1522-2675(20010815)84:8<2373::AID-HLCA2373>3.0.CO;2-4,matched by structure (4H-pyranone photodimerization),high,Bethke; Evanega; Kinder,S020
+53,review (Poplata et al. 2016),34.0,"228,229",10.1021/jo0356560; 10.1002/mrc.1035,"matched by structure (de Mayo, isoquinolone)",high,Minter,S021
+54,review (Poplata et al. 2016),35.0,240,10.1002/anie.201103051,matched by structure (enantioselective intramolecular isoquinolone),medium,Austin,S022
+55,review (Poplata et al. 2016),37.0,"244,245,246,247,248,249,250",10.1039/C39940001075; 10.1002/anie.199506851; 10.1002/jlac.1995199511274; 10.1002/jlac.199719970215; 10.1002/ejoc.200400592; 10.1002/ejoc.200400596; 10.1016/S0040-4039(01)00021-1,matched by structure (ladderane from cyclophane),high,Greiving; Hopf; Meyer; Okada,S023
+56,review (Poplata et al. 2016),36.0,"242,243",10.1021/ja408167r; 10.1002/chem.201500173,"matched by structure (isoquinolone + electron-poor olefin, chiral template)",medium,Coote,S024
+57,review (Poplata et al. 2016),36.0,"242,243",10.1021/ja408167r; 10.1002/chem.201500173,matched by structure (isoquinolone + vinyl boronate),medium,Coote,S024
+58,review (Poplata et al. 2016),36.0,"242,243",10.1021/ja408167r; 10.1002/chem.201500173,matched by structure (isoquinolone + vinyl sulfone),medium,Coote,S024
+59,review (Poplata et al. 2016),38.0,254,10.1021/jo960556y,matched by structure (delta-truxinate),high,Haag,S025
+60,review (Poplata et al. 2016),40.0,"262,263",10.1021/ol047866k; 10.1021/la061215a,matched by structure (bis(thiourea) cinnamate),high,Pattabiraman,S026
+61,review (Poplata et al. 2016),41.0,"269,270",10.1002/anie.201403454; 10.1055/s-0034-1381032,matched by structure (dictazole B),high,Skiredj,S027
+62,review (Poplata et al. 2016),42.0,271,10.1021/ja050064f,matched by structure (littoralisone),high,Mangion,S028
+63,review (Poplata et al. 2016),48.0,"287,288,289,290,291,292,293",10.1016/S0040-4039(00)78424-3; 10.1021/jo960088s; 10.1016/S0040-4039(97)01466-4; 10.1016/S0040-4039(98)00637-6; 10.1016/S0040-4039(98)01140-X; 10.1021/jo990307k; 10.1016/j.tetlet.2007.01.068,matched by structure (beta-functionalized 2-cyclopentenone),medium,Lange,S029
+64,review (Poplata et al. 2016),49.0,"295,296",10.1002/ejoc.200900749; 10.1016/j.tetasy.2010.05.043,matched by structure (chiral 4-substituted 2-cyclopentenone),high,Le,S030
+65,review (Poplata et al. 2016),49.0,"295,296",10.1002/ejoc.200900749; 10.1016/j.tetasy.2010.05.043,matched by structure (chiral 4-substituted 2-cyclopentenone),high,Le,S030
+66,review (Poplata et al. 2016),49.0,"295,296",10.1002/ejoc.200900749; 10.1016/j.tetasy.2010.05.043,matched by structure (chiral 4-substituted 2-cyclopentenone),high,Le,S030
+67,review (Poplata et al. 2016),50.0,304,10.1055/s-2001-18063,matched by structure (bicyclic enone (kelsoene)),medium,Piers,S031
+68,review (Poplata et al. 2016),51.0,"310,311",10.1016/j.tetlet.2005.01.133; 10.1002/anie.200503618,matched by structure (tricyclic enone),high,Mehta,S032
+69,review (Poplata et al. 2016),53.0,323,10.1016/j.tetlet.2005.01.173,matched by structure (fenestrane approach),medium,Ichikawa,S033
+70,review (Poplata et al. 2016),54.0,"324,325",10.1021/ol0259342; 10.1021/ja060847g,matched by structure (guanacastepene enone),medium,Shipe,S034
+71,review (Poplata et al. 2016),55.0,"326,327",10.1016/S0040-4039(96)02020-5; 10.1021/ja973824y,"matched by structure (tethered enone, uncertain)",low,Crimmins,S035
+72,review (Poplata et al. 2016),55.0,"326,327",10.1016/S0040-4039(96)02020-5; 10.1021/ja973824y,matched by structure (stereocentre in tether),medium,Crimmins,S035
+73,review (Poplata et al. 2016),56.0,333,10.1021/ja060968g,"matched by structure (solvent influence, same substrate)",medium,Ng,S036
+74,review (Poplata et al. 2016),56.0,333,10.1021/ja060968g,"matched by structure (solvent influence, same substrate)",medium,Ng,S036
+75,review (Poplata et al. 2016),57.0,334,10.1021/ol991272d,matched by structure (formal crossed product),medium,Crimmins,S037
+76,review (Poplata et al. 2016),58.0,340,10.1002/anie.200701658,matched by structure (silyl cage ketone),medium,Lledó,S038
+77,review (Poplata et al. 2016),59.0,346,10.1016/S0957-4166(02)00339-7,"matched by structure (chiral 2-cyclohexenone, intermolecular)",high,Lange,S039
+78,review (Poplata et al. 2016),59.0,346,10.1016/S0957-4166(02)00339-7,matched by structure (chiral 2-cyclohexenone + ketene acetal),medium,Lange,S039
+79,review (Poplata et al. 2016),61.0,"361,362,363,364,365,366,367,368,369",10.1016/j.tetlet.2004.01.010; 10.1016/j.tetlet.2004.08.102; 10.1021/jo0354746; 10.1246/cl.2010.828; 10.1002/chem.201000429; 10.1556/JFC-D-12-00005; 10.1016/j.jphotochem.2012.05.021; 10.1021/jo401126p; 10.3390/molecules18021626,matched by structure (chiral auxiliary),medium,Furutani; Nishiyama; Shintani; Terao; Tsutsumi,S040
+80,review (Poplata et al. 2016),61.0,"361,362,363,364,365,366,367,368,369",10.1016/j.tetlet.2004.01.010; 10.1016/j.tetlet.2004.08.102; 10.1021/jo0354746; 10.1246/cl.2010.828; 10.1002/chem.201000429; 10.1556/JFC-D-12-00005; 10.1016/j.jphotochem.2012.05.021; 10.1021/jo401126p; 10.3390/molecules18021626,matched by structure (chiral template),medium,Furutani; Nishiyama; Shintani; Terao; Tsutsumi,S040
+81,review (Poplata et al. 2016),61.0,"361,362,363,364,365,366,367,368,369",10.1016/j.tetlet.2004.01.010; 10.1016/j.tetlet.2004.08.102; 10.1021/jo0354746; 10.1246/cl.2010.828; 10.1002/chem.201000429; 10.1556/JFC-D-12-00005; 10.1016/j.jphotochem.2012.05.021; 10.1021/jo401126p; 10.3390/molecules18021626,matched by structure (2-cyclohexenone + ethylene),medium,Furutani; Nishiyama; Shintani; Terao; Tsutsumi,S040
+82,review (Poplata et al. 2016),62.0,"386,387,388",10.1016/S0040-4039(96)02499-9; 10.1016/S0040-4039(00)01933-X; 10.1021/jo001631e,matched by structure (chiral tether),medium,Faure,S041
+83,review (Poplata et al. 2016),63.0,"389,390",10.1002/ejoc.200500546; 10.1016/j.tet.2007.07.092,"matched by structure (tethered allyl ether, oxa-propellane)",medium,Tzvetkov,S042
+84,review (Poplata et al. 2016),63.0,"389,390",10.1002/ejoc.200500546; 10.1016/j.tet.2007.07.092,scheme number in data; refs: same sentence,high,Tzvetkov,S042
+85,review (Poplata et al. 2016),167.0,857,10.1021/jo900356c,scheme number in data; refs: same sentence,high,Cuquerella,S043
+86,review (Poplata et al. 2016),166.0,"853,854,855",10.1021/ja970916e; 10.1021/ja981377w; 10.1016/S0040-4039(97)00891-5,scheme number in data; refs: same sentence,high,Vassilikogiannakis,S044
+87,review (Poplata et al. 2016),165.0,849,10.1039/b200098a,scheme number in data; refs: preceding citation,medium,Haga,S045
+88,review (Poplata et al. 2016),163.0,842,10.1021/ol3000298,scheme number in data; refs: same sentence,high,Tyson,S046
+89,review (Poplata et al. 2016),162.0,841,10.1021/ja903732v,scheme number in data; refs: same sentence,high,Du,S047
+90,review (Poplata et al. 2016),162.0,841,10.1021/ja903732v,scheme number in data; refs: same sentence,high,Du,S047
+91,review (Poplata et al. 2016),162.0,841,10.1021/ja903732v,scheme number in data; refs: same sentence,high,Du,S047
+92,review (Poplata et al. 2016),162.0,841,10.1021/ja903732v,scheme number in data; refs: same sentence,high,Du,S047
+93,review (Poplata et al. 2016),161.0,834,10.1021/ja805387f,scheme number in data; refs: preceding citation,medium,Ischay,S048
+94,review (Poplata et al. 2016),161.0,834,10.1021/ja805387f,scheme number in data; refs: preceding citation,medium,Ischay,S048
+95,review (Poplata et al. 2016),161.0,834,10.1021/ja805387f,scheme number in data; refs: preceding citation,medium,Ischay,S048
+96,review (Poplata et al. 2016),161.0,834,10.1021/ja805387f,scheme number in data; refs: preceding citation,medium,Ischay,S048
+97,review (Poplata et al. 2016),161.0,834,10.1021/ja805387f,scheme number in data; refs: preceding citation,medium,Ischay,S048
+98,review (Poplata et al. 2016),161.0,834,10.1021/ja805387f,scheme number in data; refs: preceding citation,medium,Ischay,S048
+99,review (Poplata et al. 2016),160.0,817,10.1016/j.tet.2014.10.027,scheme number in data; refs: same sentence,high,Wang,S049
+100,review (Poplata et al. 2016),159.0,816,10.1002/anie.201201222,scheme number in data; refs: same sentence,high,Kranz,S050
+101,review (Poplata et al. 2016),158.0,815,10.1039/c3sc50643f,scheme number in data; refs: same sentence,high,Riener,S051
+102,review (Poplata et al. 2016),158.0,815,10.1039/c3sc50643f,scheme number in data; refs: same sentence,high,Riener,S051
+103,review (Poplata et al. 2016),158.0,815,10.1039/c3sc50643f,scheme number in data; refs: same sentence,high,Riener,S051
+104,review (Poplata et al. 2016),158.0,815,10.1039/c3sc50643f,scheme number in data; refs: same sentence,high,Riener,S051
+105,review (Poplata et al. 2016),157.0,814,10.1039/c2sc20658g,scheme number in data; refs: same sentence,high,Ischay,S052
+106,review (Poplata et al. 2016),157.0,814,10.1039/c2sc20658g,scheme number in data; refs: same sentence,high,Ischay,S052
+107,review (Poplata et al. 2016),157.0,814,10.1039/c2sc20658g,scheme number in data; refs: same sentence,high,Ischay,S052
+108,review (Poplata et al. 2016),157.0,814,10.1039/c2sc20658g,scheme number in data; refs: same sentence,high,Ischay,S052
+109,review (Poplata et al. 2016),156.0,813,10.1021/ja103934y,scheme number in data; refs: same sentence,high,Ischay,S053
+110,review (Poplata et al. 2016),156.0,813,10.1021/ja103934y,scheme number in data; refs: same sentence,high,Ischay,S053
+111,review (Poplata et al. 2016),156.0,813,10.1021/ja103934y,scheme number in data; refs: same sentence,high,Ischay,S053
+112,review (Poplata et al. 2016),156.0,813,10.1021/ja103934y,scheme number in data; refs: same sentence,high,Ischay,S053
+113,review (Poplata et al. 2016),156.0,813,10.1021/ja103934y,scheme number in data; refs: same sentence,high,Ischay,S053
+114,review (Poplata et al. 2016),156.0,813,10.1021/ja103934y,scheme number in data; refs: same sentence,high,Ischay,S053
+115,review (Poplata et al. 2016),155.0,"809,810",10.3891/acta.chem.scand.52-0175; 10.1002/cber.19931260726,scheme number in data; refs: same sentence,high,Botzem; Martiny,S054
+116,review (Poplata et al. 2016),154.0,"805,806,807",10.1039/c39730000677; 10.1021/ja00283a034; 10.1021/ja00405a035,scheme number in data; refs: same sentence,high,Farid; See,S055
+117,review (Poplata et al. 2016),153.0,803,10.1002/anie.201405359,scheme number in data; refs: preceding citation,medium,Hurtley,S056
+118,review (Poplata et al. 2016),153.0,803,10.1002/anie.201405359,scheme number in data; refs: preceding citation,medium,Hurtley,S056
+119,review (Poplata et al. 2016),153.0,803,10.1002/anie.201405359,scheme number in data; refs: preceding citation,medium,Hurtley,S056
+120,review (Poplata et al. 2016),153.0,803,10.1002/anie.201405359,scheme number in data; refs: preceding citation,medium,Hurtley,S056
+121,review (Poplata et al. 2016),152.0,802,10.1021/ol0360703,scheme number in data; refs: same sentence,high,Paduraru,S057
+122,review (Poplata et al. 2016),151.0,801,10.1055/s-2001-14589,scheme number in data; refs: preceding citation,medium,Barbero,S058
+123,review (Poplata et al. 2016),150.0,796,10.1021/ja010883+,scheme number in data; refs: same sentence,high,Chen,S059
+124,review (Poplata et al. 2016),149.0,794,10.1002/hlca.200390276,scheme number in data; refs: same sentence,high,Aydinli,S060
+125,review (Poplata et al. 2016),148.0,"217,218,219,602,603,791",10.1002/hlca.19970800610; 10.1016/S0040-4020(00)00498-1; 10.1002/1522-2675(20010815)84:8<2373::AID-HLCA2373>3.0.CO;2-4; 10.1002/1522-2675(20000607)83:6<1168::AID-HLCA1168>3.0.CO;2-Y; 10.1002/hlca.201100112; 10.1016/1010-6030(91)85018-C,scheme number in data; refs: preceding citation,medium,Bethke; Inhülsen; Karbe; Kinder; Schwebel,S020
+126,review (Poplata et al. 2016),147.0,790,10.1021/jp505678b,scheme number in data; refs: preceding citation,medium,Iyer,S061
+127,review (Poplata et al. 2016),146.0,788,10.1039/b610727c,scheme number in data; refs: same sentence,high,Bucholtz,S062
+128,review (Poplata et al. 2016),145.0,787,10.1021/jo034251c,scheme number in data; refs: preceding citation,medium,Pedrosa,S063
+129,review (Poplata et al. 2016),145.0,787,10.1021/jo034251c,scheme number in data; refs: preceding citation,medium,Pedrosa,S063
+130,review (Poplata et al. 2016),144.0,785,10.1016/j.tet.2007.11.021,scheme number in data; refs: same sentence,high,Mondière,S064
+131,review (Poplata et al. 2016),143.0,"781,782",10.3987/COM-02-9451; 10.3987/COM-01-S(K)23,scheme number in data; refs: preceding citation,medium,Ohkura; See,S065
+132,review (Poplata et al. 2016),143.0,"781,782",10.3987/COM-02-9451; 10.3987/COM-01-S(K)23,scheme number in data; refs: preceding citation,medium,Ohkura; See,S065
+133,review (Poplata et al. 2016),143.0,"781,782",10.3987/COM-02-9451; 10.3987/COM-01-S(K)23,scheme number in data; refs: preceding citation,medium,Ohkura; See,S065
+134,review (Poplata et al. 2016),143.0,"781,782",10.3987/COM-02-9451; 10.3987/COM-01-S(K)23,scheme number in data; refs: preceding citation,medium,Ohkura; See,S065
+135,review (Poplata et al. 2016),142.0,762,10.1021/ja5034638,scheme number in data; refs: preceding citation,medium,Kumarasamy,S066
+136,review (Poplata et al. 2016),141.0,761,10.1002/hlca.200690101,scheme number in data; refs: same sentence,high,Poschenrieder,S067
+137,review (Poplata et al. 2016),140.0,759,10.1021/jo000361x,scheme number in data; refs: preceding citation,medium,Laurenti,S068
+138,review (Poplata et al. 2016),139.0,758,10.1002/anie.200904059,scheme number in data; refs: preceding citation,medium,Roscini,S069
+139,review (Poplata et al. 2016),138.0,"621,622,623,752",10.1016/S0040-4039(00)76692-5; 10.1039/CC9960000249; 10.1016/S0040-4020(99)00250-1; 10.1002/chem.201404347,scheme number in data; refs: same sentence,high,Booker-Milburn; Elliott,S070
+140,review (Poplata et al. 2016),137.0,"746,747",10.1039/b719761f; 10.1021/ol301033r,scheme number in data; refs: same sentence,high,Sakamoto; Yagishita,S071
+141,review (Poplata et al. 2016),136.0,741,10.1002/anie.201310997,scheme number in data; refs: same sentence,high,Alonso,S072
+142,review (Poplata et al. 2016),136.0,741,10.1002/anie.201310997,scheme number in data; refs: same sentence,high,Alonso,S072
+143,review (Poplata et al. 2016),136.0,741,10.1002/anie.201310997,scheme number in data; refs: same sentence,high,Alonso,S072
+144,review (Poplata et al. 2016),136.0,741,10.1002/anie.201310997,scheme number in data; refs: same sentence,high,Alonso,S072
+145,review (Poplata et al. 2016),136.0,741,10.1002/anie.201310997,scheme number in data; refs: same sentence,high,Alonso,S072
+146,review (Poplata et al. 2016),135.0,744,10.1002/anie.201403885,scheme number in data; refs: same sentence,high,Maturi,S073
+147,review (Poplata et al. 2016),134.0,742,10.1002/chem.201300203,scheme number in data; refs: same sentence,high,Maturi,S074
+148,review (Poplata et al. 2016),133.0,738,10.1021/jo020630e,scheme number in data; refs: same sentence,high,Cauble,S075
+149,review (Poplata et al. 2016),132.0,729,10.1021/ja0026760,scheme number in data; refs: same sentence,high,Bach,S076
+150,review (Poplata et al. 2016),132.0,729,10.1021/ja0026760,scheme number in data; refs: same sentence,high,Bach,S076
+151,review (Poplata et al. 2016),131.0,724,10.1002/1521-3773(20000703)39:13<2302::AID-ANIE2302>3.0.CO;2-6,scheme number in data; refs: same sentence,high,Bach,S077
+152,review (Poplata et al. 2016),131.0,724,10.1002/1521-3773(20000703)39:13<2302::AID-ANIE2302>3.0.CO;2-6,scheme number in data; refs: same sentence,high,Bach,S077
+153,review (Poplata et al. 2016),130.0,711,10.1016/j.tetlet.2015.01.145,scheme number in data; refs: same sentence,high,Finn,S078
+154,review (Poplata et al. 2016),130.0,711,10.1016/j.tetlet.2015.01.145,scheme number in data; refs: same sentence,high,Finn,S078
+155,review (Poplata et al. 2016),130.0,711,10.1016/j.tetlet.2015.01.145,scheme number in data; refs: same sentence,high,Finn,S078
+156,review (Poplata et al. 2016),129.0,708,10.1039/c0pp00372g,scheme number in data; refs: same sentence,high,Cho,S079
+157,review (Poplata et al. 2016),128.0,"702,703,704",10.1055/s-2007-982553; 10.1021/jo7027129; 10.1002/chem.200902616,scheme number in data; refs: preceding citation,medium,Albrecht,S080
+158,review (Poplata et al. 2016),127.0,"699,700",10.1039/a708365c; 10.1002/hlca.200390051,scheme number in data; refs: manual (text read),high,Wrobel,S081
+159,review (Poplata et al. 2016),127.0,"699,700",10.1039/a708365c; 10.1002/hlca.200390051,scheme number in data; refs: manual (text read),high,Wrobel,S081
+160,review (Poplata et al. 2016),126.0,695,10.1016/S0040-4039(97)10807-3,scheme number in data; refs: manual (text read),high,Tsujishima,S082
+161,review (Poplata et al. 2016),125.0,"689,690,691",10.1039/b404555f; 10.1021/ja0370140; 10.1021/ol060468s,scheme number in data; refs: same sentence,high,Saito,S083
+162,review (Poplata et al. 2016),124.0,687,10.1021/ol052955y,scheme number in data; refs: following citation,medium,White,S084
+163,review (Poplata et al. 2016),122.0,681,10.1002/anie.201101360,scheme number in data; refs: same sentence,high,Nicolaou,S085
+164,review (Poplata et al. 2016),121.0,674,10.1021/jo0401321,scheme number in data; refs: preceding citation,medium,Choi,S086
+165,review (Poplata et al. 2016),120.0,"664,665,666,667,668,669,670,671",10.1021/jm991115k; 10.1002/(SICI)1099-0690(200001)2000:2<245::AID-EJOC245>3.0.CO;2-2; 10.1016/S0223-5234(01)01228-4; 10.1002/1521-3765(20011105)7:21<4599::AID-CHEM4599>3.0.CO;2-U; 10.3987/COM-01-9423; 10.1021/jm058046w; 10.1021/jm800480y; 10.1016/j.bmc.2010.06.004,scheme number in data; refs: same sentence,high,Coburger; Hilgeroth; Richter,S087
+166,review (Poplata et al. 2016),119.0,663,10.1039/c2cc17882f,scheme number in data; refs: same sentence,high,Qian,S088
+167,review (Poplata et al. 2016),118.0,"657,658",10.1002/anie.201106889; 10.1002/asia.201200295,scheme number in data; refs: following citation,medium,Lu,S089
+168,review (Poplata et al. 2016),117.0,566,10.1021/jo0056500,scheme number in data; refs: preceding citation,medium,Blaauw,S090
+169,review (Poplata et al. 2016),116.0,"654,655",10.1016/S0957-4166(02)00760-7; 10.1016/S0957-4166(00)80211-6,scheme number in data; refs: preceding citation,medium,Murakami; Sato,S091
+170,review (Poplata et al. 2016),115.0,"648,649",10.1016/S0040-4039(98)00285-8; 10.1021/ja9916198,scheme number in data; refs: manual (text read),high,Winkler,S092
+171,review (Poplata et al. 2016),115.0,"648,649",10.1016/S0040-4039(98)00285-8; 10.1021/ja9916198,scheme number in data; refs: manual (text read),high,Winkler,S092
+172,review (Poplata et al. 2016),114.0,"646,647",10.1055/s-2002-19324; 10.1016/S0040-4020(03)00425-3,scheme number in data; refs: same sentence,high,Greenwood,S093
+173,review (Poplata et al. 2016),113.0,"642,643,644",10.1021/ol2004462; 10.1021/jo201066d; 10.1055/s-0034-1378282,scheme number in data; refs: preceding citation,medium,Hehn; Weixler,S094
+174,review (Poplata et al. 2016),113.0,"642,643,644",10.1021/ol2004462; 10.1021/jo201066d; 10.1055/s-0034-1378282,scheme number in data; refs: preceding citation,medium,Hehn; Weixler,S094
+175,review (Poplata et al. 2016),112.0,"639,640,641",10.1039/B613985J; 10.1002/anie.200801534; 10.1002/chem.201000036,scheme number in data; refs: preceding citation,medium,Fleck,S095
+176,review (Poplata et al. 2016),111.0,638,10.1002/anie.201204080,scheme number in data; refs: same sentence,high,Fort,S096
+177,review (Poplata et al. 2016),111.0,638,10.1002/anie.201204080,scheme number in data; refs: same sentence,high,Fort,S096
+178,review (Poplata et al. 2016),111.0,638,10.1002/anie.201204080,scheme number in data; refs: same sentence,high,Fort,S096
+179,review (Poplata et al. 2016),111.0,638,10.1002/anie.201204080,scheme number in data; refs: same sentence,high,Fort,S096
+180,review (Poplata et al. 2016),110.0,"634,635,636",10.1002/anie.200352171; 10.1002/ejoc.200400551; 10.1055/s-0029-1216728,scheme number in data; refs: same sentence,high,Hehn; Kemmler,S097
+181,review (Poplata et al. 2016),109.0,"630,631,632",10.1021/ja049648s; 10.1002/anie.200503374; 10.1021/ja069035a,scheme number in data; refs: preceding citation,medium,Baran; O’Malley,S098
+182,review (Poplata et al. 2016),108.0,"625,626",10.1021/ja001898v; 10.1021/ja00050a065,scheme number in data; refs: preceding citation,medium,White,S099
+183,review (Poplata et al. 2016),107.0,624,10.1002/anie.201410115,scheme number in data; refs: preceding citation,medium,Ralph,S100
+184,review (Poplata et al. 2016),106.0,604,10.1039/a707819f,scheme number in data; refs: same sentence,high,Bethke,S101
+185,review (Poplata et al. 2016),105.0,599,10.1021/ja077912m,scheme number in data; refs: preceding citation,medium,Sakamoto,S102
+186,review (Poplata et al. 2016),104.0,597,10.1002/anie.201310940,scheme number in data; refs: same sentence,high,Vallavoju,S103
+187,review (Poplata et al. 2016),104.0,597,10.1002/anie.201310940,scheme number in data; refs: same sentence,high,Vallavoju,S103
+188,review (Poplata et al. 2016),104.0,597,10.1002/anie.201310940,scheme number in data; refs: same sentence,high,Vallavoju,S103
+189,review (Poplata et al. 2016),103.0,"595,596",10.1002/anie.201003619; 10.1002/chem.201104032,scheme number in data; refs: same sentence,high,Brimioulle; Guo,S104
+190,review (Poplata et al. 2016),103.0,"595,596",10.1002/anie.201003619; 10.1002/chem.201104032,scheme number in data; refs: same sentence,high,Brimioulle; Guo,S104
+191,review (Poplata et al. 2016),103.0,"595,596",10.1002/anie.201003619; 10.1002/chem.201104032,scheme number in data; refs: same sentence,high,Brimioulle; Guo,S104
+192,review (Poplata et al. 2016),103.0,"595,596",10.1002/anie.201003619; 10.1002/chem.201104032,scheme number in data; refs: same sentence,high,Brimioulle; Guo,S104
+193,review (Poplata et al. 2016),103.0,"595,596",10.1002/anie.201003619; 10.1002/chem.201104032,scheme number in data; refs: same sentence,high,Brimioulle; Guo,S104
+194,review (Poplata et al. 2016),102.0,573,10.1021/acs.orglett.5b01888,scheme number in data; refs: same sentence,high,Saya,S105
+195,review (Poplata et al. 2016),101.0,572,10.1055/s-1998-1967,scheme number in data; refs: preceding citation,medium,Gómez,S106
+196,review (Poplata et al. 2016),100.0,"567,568,569",10.1039/c3cc40757h; 10.3987/COM-13-S(S)67; 10.1021/jo501302f,scheme number in data; refs: preceding citation,medium,Fort,S107
+197,review (Poplata et al. 2016),100.0,"567,568,569",10.1039/c3cc40757h; 10.3987/COM-13-S(S)67; 10.1021/jo501302f,scheme number in data; refs: preceding citation,medium,Fort,S107
+198,review (Poplata et al. 2016),99.0,561,10.1039/b311415e,scheme number in data; refs: same sentence,high,Hue,S108
+199,review (Poplata et al. 2016),98.0,"556,557",10.1021/ol0530225; 10.1021/ol402379m,scheme number in data; refs: same sentence,high,Doroh; Townsend,S109
+200,review (Poplata et al. 2016),97.0,"551,552,553",10.1016/S0040-4039(99)00172-0; 10.1021/ol991261k; 10.1021/jo026705w,scheme number in data; refs: preceding citation,medium,de,S110
+201,review (Poplata et al. 2016),96.0,"540,541,542,543,544,545,546,547,548,549",10.1016/0040-4020(95)00957-4; 10.1016/0040-4020(95)00958-2; 10.1021/ol0497032; 10.1021/jo800970u; 10.1002/ejoc.201101614; 10.1021/jo400487y; 10.1021/ol052794y; 10.1021/ol0710616; 10.1021/jo200775x; 10.1002/ejoc.201301097,scheme number in data; refs: same sentence,high,Alibés; Flores; Miralles-Llumà; Parés; Peréz; Racamonde; Rustullet,S111
+202,review (Poplata et al. 2016),96.0,"540,541,542,543,544,545,546,547,548,549",10.1016/0040-4020(95)00957-4; 10.1016/0040-4020(95)00958-2; 10.1021/ol0497032; 10.1021/jo800970u; 10.1002/ejoc.201101614; 10.1021/jo400487y; 10.1021/ol052794y; 10.1021/ol0710616; 10.1021/jo200775x; 10.1002/ejoc.201301097,scheme number in data; refs: same sentence,high,Alibés; Flores; Miralles-Llumà; Parés; Peréz; Racamonde; Rustullet,S111
+203,review (Poplata et al. 2016),95.0,516,10.1055/s-0028-1087561,scheme number in data; refs: following citation,medium,Winkler,S112
+204,review (Poplata et al. 2016),94.0,"511,512,513,514,515,516",10.1021/ja981303k; 10.1016/S0040-4020(98)00346-9; 10.1021/ja010542w; 10.1021/ol060848d; 10.1021/ol061577+; 10.1055/s-0028-1087561,scheme number in data; refs: preceding citation,medium,Kwak; Ragains; Winkler,S112
+205,review (Poplata et al. 2016),91.0,503,10.1021/ja963436g,scheme number in data; refs: same sentence,high,Shepard,S113
+206,review (Poplata et al. 2016),91.0,503,10.1021/ja963436g,scheme number in data; refs: same sentence,high,Shepard,S113
+207,review (Poplata et al. 2016),91.0,503,10.1021/ja963436g,scheme number in data; refs: same sentence,high,Shepard,S113
+208,review (Poplata et al. 2016),90.0,502,10.1002/anie.201407832,scheme number in data; refs: preceding citation,medium,Brimioulle,S114
+209,review (Poplata et al. 2016),90.0,502,10.1002/anie.201407832,scheme number in data; refs: preceding citation,medium,Brimioulle,S114
+210,review (Poplata et al. 2016),90.0,502,10.1002/anie.201407832,scheme number in data; refs: preceding citation,medium,Brimioulle,S114
+211,review (Poplata et al. 2016),90.0,502,10.1002/anie.201407832,scheme number in data; refs: preceding citation,medium,Brimioulle,S114
+212,review (Poplata et al. 2016),90.0,502,10.1002/anie.201407832,scheme number in data; refs: preceding citation,medium,Brimioulle,S114
+213,review (Poplata et al. 2016),90.0,502,10.1002/anie.201407832,scheme number in data; refs: preceding citation,medium,Brimioulle,S114
+214,review (Poplata et al. 2016),89.0,501,10.1246/bcsj.66.324,scheme number in data; refs: same sentence,high,Inouye,S115
+215,review (Poplata et al. 2016),88.0,"497,498",10.1021/ol200312q; 10.1021/jo300776d,scheme number in data; refs: preceding citation,medium,Xu,S116
+216,review (Poplata et al. 2016),85.0,488,10.1021/ol101734k,scheme number in data; refs: same sentence,high,Sakamoto,S117
+217,review (Poplata et al. 2016),84.0,486,10.1021/ja500854q,scheme number in data; refs: same sentence,high,Qi,S118
+218,review (Poplata et al. 2016),83.0,481,10.1002/anie.201502815,scheme number in data; refs: same sentence,high,Xu,S119
+219,review (Poplata et al. 2016),83.0,481,10.1002/anie.201502815,scheme number in data; refs: same sentence,high,Xu,S119
+220,review (Poplata et al. 2016),83.0,481,10.1002/anie.201502815,scheme number in data; refs: same sentence,high,Xu,S119
+221,review (Poplata et al. 2016),83.0,481,10.1002/anie.201502815,scheme number in data; refs: same sentence,high,Xu,S119
+222,review (Poplata et al. 2016),83.0,481,10.1002/anie.201502815,scheme number in data; refs: same sentence,high,Xu,S119
+223,review (Poplata et al. 2016),83.0,481,10.1002/anie.201502815,scheme number in data; refs: same sentence,high,Xu,S119
+224,review (Poplata et al. 2016),82.0,475,10.1021/jo101276q,scheme number in data; refs: same sentence,high,Sahn,S120
+225,review (Poplata et al. 2016),82.0,475,10.1021/jo101276q,scheme number in data; refs: same sentence,high,Sahn,S120
+226,review (Poplata et al. 2016),81.0,"462,463,464",10.1002/hlca.200590147; 10.1055/s-2007-965998; 10.1002/hlca.201100406,scheme number in data; refs: preceding citation,medium,Margaretha; Schmidt,S121
+227,review (Poplata et al. 2016),81.0,"462,463,464",10.1002/hlca.200590147; 10.1055/s-2007-965998; 10.1002/hlca.201100406,scheme number in data; refs: preceding citation,medium,Margaretha; Schmidt,S121
+228,review (Poplata et al. 2016),80.0,458,10.1016/S0040-4020(96)01107-6,scheme number in data; refs: same sentence,high,Abd,S122
+229,review (Poplata et al. 2016),79.0,"451,452,453",10.1002/anie.200701552; 10.1021/ja802805c; 10.1002/anie.200902908,scheme number in data; refs: same sentence,high,Du; Nicolaou,S123
+230,review (Poplata et al. 2016),79.0,"451,452,453",10.1002/anie.200701552; 10.1021/ja802805c; 10.1002/anie.200902908,scheme number in data; refs: same sentence,high,Du; Nicolaou,S123
+231,review (Poplata et al. 2016),78.0,450,10.1021/jo0264372,scheme number in data; refs: same sentence,high,Bach,S124
+232,review (Poplata et al. 2016),78.0,450,10.1021/jo0264372,scheme number in data; refs: same sentence,high,Bach,S124
+233,review (Poplata et al. 2016),77.0,446,10.1002/hlca.200900202,scheme number in data; refs: preceding citation,medium,Vallée,S125
+234,review (Poplata et al. 2016),76.0,445,10.1021/ol902827s,scheme number in data; refs: preceding citation,medium,Inhülsen,S126
+235,review (Poplata et al. 2016),75.0,318,10.1021/ja044542i,scheme number in data; refs: same sentence,high,Bader,S127
+236,review (Poplata et al. 2016),74.0,441,10.1021/jo034177y,scheme number in data; refs: preceding citation,medium,De,S128
+237,review (Poplata et al. 2016),73.0,440,10.1055/s-2005-861799,scheme number in data; refs: preceding citation,medium,Seery,S129
+238,review (Poplata et al. 2016),72.0,437,10.1002/1522-2675(20011219)84:12<3673::AID-HLCA3673>3.0.CO;2-K,scheme number in data; refs: same sentence,high,Döpp,S130
+239,review (Poplata et al. 2016),71.0,425,10.1039/b517008g,scheme number in data; refs: same sentence,high,Nielsen,S131
+240,review (Poplata et al. 2016),71.0,425,10.1039/b517008g,scheme number in data; refs: same sentence,high,Nielsen,S131
+241,review (Poplata et al. 2016),70.0,424,10.1002/1521-3765(20011217)7:24<5359::AID-CHEM5359>3.0.CO;2-Z,scheme number in data; refs: same sentence,high,Nicolaou,S132
+242,review (Poplata et al. 2016),69.0,"422,423",10.1002/ejoc.201001304; 10.1039/c2ob07048k,scheme number in data; refs: same sentence,high,Braun; Christl,S133
+243,review (Poplata et al. 2016),68.0,"416,417,418",10.1021/jo991749z; 10.1021/ja025593n; 10.1016/j.tetlet.2006.09.013,scheme number in data; refs: preceding citation,medium,Asahara; Kokubo,S134
+244,review (Poplata et al. 2016),67.0,"413,414",10.1021/ol006026c; 10.1139/v03-185,scheme number in data; refs: same sentence,high,Ward,S135
+245,review (Poplata et al. 2016),66.0,"400,401,402,403,404,405,406,407",10.1016/S0040-4039(01)00051-X; 10.1016/S0040-4020(01)00741-4; 10.1016/S0040-4039(03)00504-5; 10.1016/j.molstruc.2003.10.018; 10.1134/S1070428010090162; 10.1016/j.bmcl.2012.08.046; 10.1016/j.bmc.2013.07.045; 10.1021/cn500054n,scheme number in data; refs: same sentence,high,Axt; Banister; Mehta; Sudhir; Vafina; Wilkinson,S136
+246,review (Poplata et al. 2016),65.0,398,10.1021/jo048677i,scheme number in data; refs: same sentence,high,Deffieux,S137
+247,review (Poplata et al. 2016),64.0,397,10.1021/ol900186y,scheme number in data; refs: same sentence,high,Jo,S138
+248,primary article,,,10.1002/anie.202001634,DOI given in source data,high,,S001
+249,review (Poplata et al. 2016),,,,"matched by structure (4-alkoxy-2-cyclohexenone, not matched)",unassigned,,S139

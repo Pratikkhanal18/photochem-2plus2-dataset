@@ -1,0 +1,37 @@
+{
+  "title": "Photochemical [2+2] Cycloaddition Dataset with Traced Provenance and a Study-Grouped Benchmark",
+  "upload_type": "dataset",
+  "description": "<p>Curated dataset of 249 photochemical [2+2] cycloaddition records (220 from the review of Poplata et al., Chem. Rev. 2016, 116, 9748, and 29 from Hörmann et al., Angew. Chem. Int. Ed. 2020, 59, 9659), with reactant, catalyst and product SMILES, conditions, yields and repaired stereoselectivity ratios. 248 records are traced to 272 primary-paper DOIs in 139 independent studies. Includes the provenance table, a log of all corrections of spreadsheet artifacts, exact study-grouped cross-validation folds, the analysis code reproducing every result in the accompanying paper, the complete descriptor-model outputs, and a curation template.</p>",
+  "creators": [
+    {
+      "name": "Khanal, Pratik",
+      "affiliation": "Crimson College of Technology, Butwal, Nepal",
+      "orcid": "0009-0009-4072-9924"
+    },
+    {
+      "name": "Neupane, Bashu Dev",
+      "affiliation": "Crimson College of Technology, Butwal, Nepal",
+      "orcid": "0009-0000-9179-3998"
+    },
+    {
+      "name": "Khanal, Amrit",
+      "affiliation": "Kathmandu Multiple College, Gaushala, Kathmandu, Nepal"
+    }
+  ],
+  "keywords": [
+    "[2+2] cycloaddition",
+    "cyclobutane",
+    "data curation",
+    "dataset",
+    "diastereoselectivity",
+    "grouped cross-validation",
+    "machine learning",
+    "photochemistry",
+    "provenance",
+    "reaction yield prediction"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}

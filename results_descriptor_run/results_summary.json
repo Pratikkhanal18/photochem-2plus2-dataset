@@ -1,0 +1,42 @@
+{
+ "n_records": 249,
+ "n_yield": 239,
+ "n_selectivity": 76,
+ "n_selectivity_positive": 53,
+ "repeats": 5,
+ "best_grouped_model": {
+  "feature_set": "A: conditions",
+  "model": "Random Forest",
+  "R2": 0.04375516432547073,
+  "MAE_pct": 14.080237282363658
+ },
+ "shap": {
+  "feature_set": "C: + Morgan fingerprints",
+  "top15": {
+   "s1_fp378": 0.011819999665021896,
+   "s1_fp80": 0.009850000031292439,
+   "p_MaxEStateIndex": 0.008179999887943268,
+   "s1_fp940": 0.007579999975860119,
+   "p_PEOE_VSA9": 0.007170000113546848,
+   "temp": 0.007120000198483467,
+   "s1_fr_allylic_oxid": 0.006819999776780605,
+   "p_BCUT2D_MWLOW": 0.0066999997943639755,
+   "s1_BCUT2D_MWLOW": 0.006300000008195639,
+   "intra": 0.00558000011369586,
+   "p_VSA_EState8": 0.00558000011369586,
+   "s1_fp294": 0.005400000140070915,
+   "s1_FractionCSP3": 0.005150000099092722,
+   "s1_BCUT2D_MRHI": 0.0049600000493228436,
+   "p_SMR_VSA6": 0.004939999897032976
+  }
+ },
+ "environment": {
+  "python": "3.7.12",
+  "rdkit": "2022.09.1",
+  "xgboost": "1.6.2",
+  "shap": "0.42.1",
+  "mordred": null,
+  "sklearn": "1.0.2"
+ },
+ "runtime_s": 1249.9
+}
